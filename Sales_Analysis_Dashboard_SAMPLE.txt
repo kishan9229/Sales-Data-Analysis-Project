@@ -1,0 +1,2 @@
+This is a SAMPLE placeholder for Tableau Dashboard (.twbx).
+Replace this file with your actual Tableau Packaged Workbook.
