@@ -1,0 +1,6 @@
+OrderID,Product,Category,Region,UnitsSold,UnitPrice,OrderDate,TotalRevenue
+1,Headphones,Accessories,South,19,2560,2023-01-01,48640
+2,Smartwatch,Accessories,East,4,14612,2023-01-02,58448
+3,Tablet,Accessories,West,18,18650,2023-01-03,335700
+4,Smartwatch,Electronics,West,2,27745,2023-01-04,55490
+5,Smartwatch,Accessories,North,1,32890,2023-01-05,32890
